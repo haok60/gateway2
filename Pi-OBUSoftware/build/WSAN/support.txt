@@ -1,0 +1,13 @@
+/home/lab411/Desktop/gateway/Pi-OBUSoftware/build/WSAN/Images/Sensor
+/home/lab411/Desktop/gateway/Pi-OBUSoftware/build/WSAN/dataHN.txt
+/home/lab411/Desktop/gateway/Pi-OBUSoftware/build/WSAN/gps.txt
+/home/lab411/Desktop/gateway/Pi-OBUSoftware/build/WSAN/history.txt
+/home/lab411/Desktop/gateway/Pi-OBUSoftware/build/WSAN/log.txt
+/home/lab411/Desktop/gateway/Pi-OBUSoftware/build/WSAN/timeDetect.txt
+ttyUSB0
+19200
+ttyUSB1
+9600
+ttyS0
+9600
+/home/lab411/Desktop/gateway/Pi-OBUSoftware/build/WSAN/thresol.txt	
